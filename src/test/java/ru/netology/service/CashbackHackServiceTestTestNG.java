@@ -1,9 +1,9 @@
-package ru.netology.service;
+/*package ru.netology.service;
 
 import org.testng.annotations.Test;
 import static org.testng.Assert.*;
 
-public class CashbackHackServiceTest {
+public class CashbackHackServiceTestTestNG {
 
     @Test
     void shouldCalculateMissingQty() {
@@ -31,4 +31,4 @@ public class CashbackHackServiceTest {
         int actual = service.remain(amount);
         assertEquals(actual, expected);
     }
-}
+}*/
